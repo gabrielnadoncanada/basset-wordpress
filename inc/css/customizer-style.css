@@ -1,0 +1,70 @@
+.customize-control-kirki-radio-image label {
+	margin-bottom: 10px;
+}
+div .customize-control-kirki-radio-image input:checked + label img {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border: 3px solid #0055ff;
+}
+div .customize-control-kirki-radio-image input:checked + label::after {
+	content: "\f147";
+	font-family: dashicons;
+	background-color: #0055ff;
+	position: absolute;
+	right: -8px;
+	bottom: 4px;
+	border-top-left-radius: 2px;
+	color: #fff;
+	line-height: normal;
+	font-size: 18px;
+	padding: 1px 0 0 1px;
+}
+div .kirki-toggle-switch-input:checked+.kirki-toggle-switch-label:after {
+	background-color: #0055ff;
+}
+div .customize-control-kirki-switch .kirki-switch .toggle-on {
+	color: #0055ff;
+}
+#input_choose_default_header > label {
+	background: #fff;
+	padding: 2px;
+    display: flex;
+}
+div .customize-control-kirki-radio-image #input_choose_default_header input:checked +  label::after {
+	right: -5px;
+	bottom: 2px;
+}
+#customize-control-mobile_logo img,
+#customize-control-secondary_logo img,
+#customize-control-logo img {
+    max-width: 75%;
+}
+.ocdi__intro-text p {
+    font-weight: 400;
+}
+
+/* ACF */
+.acf-field-667ed253ae887 .acf-radio-list label input {
+    display: none;
+}
+.acf-field-667ed253ae887 .acf-radio-list label p {
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+.acf-field-667ed253ae887 .acf-radio-list label img {
+    border: solid 3px #ddd;
+    max-width: 95%;
+}
+.acf-field-667ed253ae887 .acf-radio-list label.selected img {
+    border: solid 3px #12715b;
+}
+.acf-field-667ed253ae887 .acf-radio-list li {
+    display: inline-block;
+    list-style: none;
+    max-width: 25%;
+}
+.acf-field-667ed253ae887 .acf-radio-list label.selected::after {
+    left: 3px;
+    top: 3px;
+}

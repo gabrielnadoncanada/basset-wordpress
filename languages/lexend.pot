@@ -1,0 +1,1205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lexend\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-14 13:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: lexend"
+
+#: comments.php:27
+msgid " Comment "
+msgstr ""
+
+#: comments.php:27
+msgid " Comments"
+msgstr ""
+
+#: inc/kirki-customizer.php:421 inc/kirki-customizer.php:442
+#: inc/kirki-customizer.php:463 inc/kirki-customizer.php:484
+#: inc/kirki-customizer.php:505 inc/template-helper.php:167
+#: inc/template-helper.php:168 inc/template-helper.php:169
+#: inc/template-helper.php:190 inc/template-helper.php:191
+#: inc/template-helper.php:192 inc/template-helper.php:193
+#: inc/template-helper.php:238 inc/template-helper.php:239
+#: inc/template-helper.php:240 inc/template-helper.php:241
+#: inc/template-helper.php:242
+msgid "#"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:37
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:54
+msgid "&larr; Older "
+msgstr ""
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/kirki-customizer.php:964
+msgid "1"
+msgstr ""
+
+#: inc/kirki-customizer.php:946 inc/kirki-customizer.php:963
+msgid "2"
+msgstr ""
+
+#: inc/kirki-customizer.php:945 inc/kirki-customizer.php:962
+msgid "3"
+msgstr ""
+
+#: inc/kirki-customizer.php:944 inc/kirki-customizer.php:961
+msgid "4"
+msgstr ""
+
+#: inc/kirki-customizer.php:856
+msgid "404 Link Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:92
+msgid "404 Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:838
+msgid "404 Text"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: inc/kirki-customizer.php:281
+msgid "Adjust your logo size with px"
+msgstr ""
+
+#: inc/add_plugin.php:38
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/add_plugin.php:150
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:148
+#: woocommerce/cart/cart.php:148
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Average"
+msgstr ""
+
+#: 404.php:19 inc/kirki-customizer.php:858
+msgid "Back to Home"
+msgstr ""
+
+#: inc/kirki-customizer.php:224
+msgid "Back to Top Switcher"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/add_plugin.php:140
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:130
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:135
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:632 inc/common/lexend-breadcrumb.php:21
+#: inc/common/lexend-breadcrumb.php:25
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customizer.php:569
+msgid "Blog Author Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:556
+msgid "Blog Button ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:621
+msgid "Blog Button text"
+msgstr ""
+
+#: inc/kirki-customizer.php:595
+msgid "Blog Comments Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:582
+msgid "Blog Date Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:641
+msgid "Blog Details"
+msgstr ""
+
+#: inc/kirki-customizer.php:639
+msgid "Blog Details Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:68
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/common/lexend-widgets.php:14
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:630
+msgid "Blog Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:874
+msgid "Body Font"
+msgstr ""
+
+#: inc/kirki-customizer.php:534
+msgid "Breadcrumb Hide by Default"
+msgstr ""
+
+#: inc/add_plugin.php:68
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/kirki-customizer.php:60
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:809
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:820
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: comments.php:124
+msgid "Cancel reply"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:26
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "Category :"
+msgid_plural "Categories :"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:144 inc/kirki-customizer.php:361
+#: inc/kirki-customizer.php:377 inc/kirki-customizer.php:708
+msgid "Choose an option"
+msgstr ""
+
+#: inc/kirki-customizer.php:670
+msgid "Choose Footer Style"
+msgstr ""
+
+#: inc/add_plugin.php:63
+msgid "Classic Editor"
+msgstr ""
+
+#: inc/kirki-customizer.php:380
+msgid "Click"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: inc/kirki-customizer.php:84
+msgid "Color Setting"
+msgstr ""
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/add_plugin.php:48
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/kirki-customizer.php:762
+msgid "CopyRight Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:764 inc/template-helper.php:464
+msgid "Copyright © Lexend 2024. All Rights Reserved"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:147
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Coupon:"
+msgstr ""
+
+#: inc/kirki-customizer.php:182
+msgid "Dark Mode Switcher"
+msgstr ""
+
+#: header.php:59
+msgid "Dark mode toggle"
+msgstr ""
+
+#: inc/kirki-customizer.php:146
+msgid "Default"
+msgstr ""
+
+#: inc/kirki-customizer.php:196
+msgid "Default Dark Mode"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: inc/kirki-customizer.php:938
+msgid "Desktop view"
+msgstr ""
+
+#: inc/kirki-customizer.php:134 inc/kirki-customizer.php:189
+#: inc/kirki-customizer.php:203 inc/kirki-customizer.php:217
+#: inc/kirki-customizer.php:231 inc/kirki-customizer.php:316
+#: inc/kirki-customizer.php:404 inc/kirki-customizer.php:540
+#: inc/kirki-customizer.php:562 inc/kirki-customizer.php:575
+#: inc/kirki-customizer.php:588 inc/kirki-customizer.php:601
+#: inc/kirki-customizer.php:614 inc/kirki-customizer.php:663
+msgid "Disable"
+msgstr ""
+
+#: inc/add_plugin.php:151
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/kirki-customizer.php:657
+msgid "Elementor Footer Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:704
+msgid "Elementor Footer Template"
+msgstr ""
+
+#: inc/kirki-customizer.php:310
+msgid "Elementor Header Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:357
+msgid "Elementor Header Template"
+msgstr ""
+
+#: inc/add_plugin.php:27
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr ""
+
+#: inc/kirki-customizer.php:133 inc/kirki-customizer.php:188
+#: inc/kirki-customizer.php:202 inc/kirki-customizer.php:216
+#: inc/kirki-customizer.php:230 inc/kirki-customizer.php:315
+#: inc/kirki-customizer.php:403 inc/kirki-customizer.php:539
+#: inc/kirki-customizer.php:561 inc/kirki-customizer.php:574
+#: inc/kirki-customizer.php:587 inc/kirki-customizer.php:600
+#: inc/kirki-customizer.php:613 inc/kirki-customizer.php:662
+msgid "Enable"
+msgstr ""
+
+#: inc/kirki-customizer.php:226
+msgid "Enable or Disable Back button"
+msgstr ""
+
+#: inc/kirki-customizer.php:184
+msgid "Enable or Disable Dark switcher"
+msgstr ""
+
+#: inc/kirki-customizer.php:129
+msgid "Enable or Disable Preloader"
+msgstr ""
+
+#: inc/template-helper.php:65
+msgid "English"
+msgstr ""
+
+#: comments.php:84
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:83
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:85
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:98
+msgid "Enter Your Comment"
+msgstr ""
+
+#: inc/kirki-customizer.php:419
+msgid "Facebook URL"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Filter by:"
+msgstr ""
+
+#: inc/kirki-customizer.php:745
+msgid "Footer BG Color"
+msgstr ""
+
+#: inc/common/lexend-widgets.php:30
+#, php-format
+msgid "Footer Column %1$s"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:76
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/common/lexend-widgets.php:28
+#, php-format
+msgid "Footer widget no. %1$s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Good"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: inc/kirki-customizer.php:248
+msgid "Header Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:264
+msgid "Header Secondary Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:44
+msgid "Header Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:902
+msgid "Heading Fonts"
+msgstr ""
+
+#: inc/class-navwalker.php:382 inc/class-navwalker.php:917
+#: inc/class-navwalker.php:917
+msgid "Home"
+msgstr ""
+
+#: inc/kirki-customizer.php:379
+msgid "Hover"
+msgstr ""
+
+#. URI of the theme
+msgid "https://lexend.themegenix.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themegenix/"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: inc/kirki-customizer.php:706
+msgid ""
+"If you select a Footer Style from the edit page, This option will not work. "
+"So go to edit page then change the footer style."
+msgstr ""
+
+#: inc/kirki-customizer.php:325 inc/kirki-customizer.php:359
+msgid ""
+"If you select a Header Style from the edit page, This option will not work. "
+"So go to edit page then change the header style."
+msgstr ""
+
+#: inc/template-functions.php:102
+msgid "Image Alt Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:147
+msgid "Image Preloader"
+msgstr ""
+
+#: inc/kirki-customizer.php:461
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/add_plugin.php:96
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:95
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:97
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/add_plugin.php:43
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: comments.php:122
+msgid "Leave a Reply"
+msgstr ""
+
+#. %s is product title
+#: comments.php:123 woocommerce/single-product-reviews.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Lexend"
+msgstr ""
+
+#. Description of the theme
+msgid "Lexend - Software, SaaS &amp; Startup WordPress Theme"
+msgstr ""
+
+#: inc/add_plugin.php:32
+msgid "Lexend Core"
+msgstr ""
+
+#: inc/kirki-customizer.php:21
+msgid "Lexend Customizer"
+msgstr ""
+
+#: inc/kirki-customizer.php:28
+msgid "Lexend Default Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:482
+msgid "Linkedin URL"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Log in"
+msgstr ""
+
+#: comments.php:117
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:117
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:111
+msgid "logged in"
+msgstr ""
+
+#: comments.php:117
+msgid "Logged in as"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:29
+msgid "Login"
+msgstr ""
+
+#: inc/kirki-customizer.php:36
+msgid "Logo Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:280
+msgid "Logo Size Height"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/add_plugin.php:58
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:52
+msgid "Mobile Menu Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:955
+msgid "Mobile view"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Name"
+msgstr ""
+
+#: comments.php:57
+msgid "Newer &rarr;"
+msgstr ""
+
+#: single.php:55 single.php:117 single.php:180
+msgid "Next Article"
+msgstr ""
+
+#: single.php:243
+msgid "Next Post"
+msgstr ""
+
+#: inc/add_plugin.php:148
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/kirki-customizer.php:847
+msgid "Not Found Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:136
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/add_plugin.php:53
+msgid "One Click Demo Import"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:152
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: template-parts/content-page.php:9
+msgid "Page"
+msgstr ""
+
+#: inc/common/lexend-breadcrumb.php:40
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:16 inc/kirki-customizer.php:840
+msgid "Page not found"
+msgstr ""
+
+#. Name of the template
+#: page-sidebar.php:3
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content-image.php:55 template-parts/content-image.php:132
+#: template-parts/content-image.php:206 template-parts/content-image.php:264
+#: template-parts/content.php:55 template-parts/content.php:132
+#: template-parts/content.php:206 template-parts/content.php:264
+#: template-parts/content-search.php:55 template-parts/content-search.php:132
+#: template-parts/content-search.php:206 template-parts/content-search.php:264
+#: template-parts/content-gallery.php:57 template-parts/content-gallery.php:134
+#: template-parts/content-gallery.php:208
+#: template-parts/content-gallery.php:268 template-parts/content-audio.php:57
+#: template-parts/content-audio.php:134 template-parts/content-audio.php:208
+#: template-parts/content-audio.php:266 template-parts/content-video.php:57
+#: template-parts/content-video.php:134 template-parts/content-video.php:208
+#: template-parts/content-video.php:269 template-parts/content-page.php:5
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:89
+msgid "Password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Perfect"
+msgstr ""
+
+#: inc/add_plugin.php:153
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: inc/add_plugin.php:146
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/add_plugin.php:149
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/common/lexend-breadcrumb.php:46
+msgid "Portfolio"
+msgstr ""
+
+#: comments.php:104 comments.php:125
+msgid "Post Comment"
+msgstr ""
+
+#: inc/template-functions.php:43
+msgid "Post Tags :"
+msgstr ""
+
+#: inc/kirki-customizer.php:161
+msgid "Preloader Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:127
+msgid "Preloader Switcher"
+msgstr ""
+
+#: single.php:43 single.php:105 single.php:168
+msgid "Prev Article"
+msgstr ""
+
+#: single.php:232
+msgid "Prev Post"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: inc/kirki-customizer.php:787
+msgid "Primary Color"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:64
+msgid "Product"
+msgstr ""
+
+#: inc/kirki-customizer.php:937 inc/kirki-customizer.php:954
+msgid "Products per row"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:90
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/kirki-customizer.php:623 template-parts/blog/blog-btn.php:11
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:67
+#: woocommerce/myaccount/form-login.php:103
+#: woocommerce/myaccount/form-login.php:103
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Remove this item"
+msgstr ""
+
+#: functions.php:271
+msgid "Reply"
+msgstr ""
+
+#: inc/add_plugin.php:145
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:36
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: functions.php:302
+msgid "Search . . ."
+msgstr ""
+
+#: inc/common/lexend-breadcrumb.php:37
+msgid "Search Results for : "
+msgstr ""
+
+#: search.php:27
+msgid "Search Results For:"
+msgstr ""
+
+#: inc/kirki-customizer.php:798
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:673 inc/kirki-customizer.php:725
+#: inc/kirki-customizer.php:940 inc/kirki-customizer.php:957
+msgid "Select an option..."
+msgstr ""
+
+#: inc/kirki-customizer.php:323
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:375
+msgid "Select Megamenu Hover Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:141
+msgid "Select Preloader Style"
+msgstr ""
+
+#: inc/common/lexend-breadcrumb.php:43
+msgid "Services"
+msgstr ""
+
+#: inc/kirki-customizer.php:198
+msgid "Set by default Dark mode"
+msgstr ""
+
+#: inc/kirki-customizer.php:212
+msgid ""
+"Set user System Preference Mode. if the user dark mode on their system, the "
+"Website will show by default Dark."
+msgstr ""
+
+#: template-parts/content-image.php:101 template-parts/content.php:101
+#: template-parts/content-search.php:101 template-parts/content-gallery.php:103
+#: template-parts/content-audio.php:103 template-parts/content-video.php:103
+msgid "Share"
+msgstr ""
+
+#: template-parts/content-image.php:72 template-parts/content-image.php:149
+#: template-parts/content-image.php:223 template-parts/content-image.php:281
+#: template-parts/content.php:72 template-parts/content.php:149
+#: template-parts/content.php:223 template-parts/content.php:281
+#: template-parts/content-search.php:72 template-parts/content-search.php:149
+#: template-parts/content-search.php:223 template-parts/content-search.php:281
+#: template-parts/content-gallery.php:74 template-parts/content-gallery.php:151
+#: template-parts/content-gallery.php:225
+#: template-parts/content-gallery.php:285 template-parts/content-audio.php:74
+#: template-parts/content-audio.php:151 template-parts/content-audio.php:225
+#: template-parts/content-audio.php:283 template-parts/content-video.php:74
+#: template-parts/content-video.php:151 template-parts/content-video.php:225
+#: template-parts/content-video.php:286
+msgid "Share :"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:53 woocommerce/cart/cart-totals.php:54
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+msgid "Shop order"
+msgstr ""
+
+#: inc/kirki-customizer.php:608
+msgid "Show Blog Share"
+msgstr ""
+
+#: inc/kirki-customizer.php:398
+msgid "Show Mobile Menu Social"
+msgstr ""
+
+#. %d: total results
+#: woocommerce/loop/result-count.php:33
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:43
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU :"
+msgstr ""
+
+#: inc/add_plugin.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Sorry, the page you seems looking for,\n"
+"has been moved, redirected or removed permanently."
+msgstr ""
+
+#: inc/kirki-customizer.php:849
+msgid ""
+"Sorry, the page you seems looking for, has been moved, redirected or removed "
+"permanently."
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:31 woocommerce/cart/cart-totals.php:32
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:112
+msgid "Subtotal"
+msgstr ""
+
+#: inc/kirki-customizer.php:210
+msgid "System Preference Mode"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag :"
+msgid_plural "Tags :"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/content-image.php:65 template-parts/content-image.php:142
+#: template-parts/content-image.php:216 template-parts/content.php:65
+#: template-parts/content.php:142 template-parts/content.php:216
+#: template-parts/content-search.php:65 template-parts/content-search.php:142
+#: template-parts/content-search.php:216 template-parts/content-gallery.php:67
+#: template-parts/content-gallery.php:144
+#: template-parts/content-gallery.php:218 template-parts/content-audio.php:67
+#: template-parts/content-audio.php:144 template-parts/content-audio.php:218
+#: template-parts/content-video.php:67 template-parts/content-video.php:144
+#: template-parts/content-video.php:218
+msgid "Tags:"
+msgstr ""
+
+#: inc/common/lexend-breadcrumb.php:49
+msgid "Teams"
+msgstr ""
+
+#: inc/kirki-customizer.php:503
+msgid "Telegram URL"
+msgstr ""
+
+#: inc/add_plugin.php:110
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:147
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/add_plugin.php:125
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:120
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. Author of the theme
+msgid "ThemeGenix"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/add_plugin.php:152
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/add_plugin.php:115
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:810
+msgid "This is a button color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:821
+msgid "This is a button hover color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:746
+msgid "This is a Footer bg color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:788
+msgid "This is a Primary color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:799
+msgid "This is a Secondary color control."
+msgstr ""
+
+#: inc/add_plugin.php:105
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:100
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:111
+msgid "to post a comment."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:101 woocommerce/cart/cart-totals.php:102
+msgid "Total"
+msgstr ""
+
+#: inc/kirki-customizer.php:440
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:100
+msgid "Typography Setting"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr ""
+
+#: inc/add_plugin.php:98
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:162
+msgid "Upload Preloader Logo."
+msgstr ""
+
+#: inc/kirki-customizer.php:249 inc/kirki-customizer.php:265
+msgid "Upload Your Logo"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:137
+msgid "Very poor"
+msgstr ""
+
+#: inc/kirki-customizer.php:722
+msgid "Widget Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:731
+msgid "Widget Number 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:730
+msgid "Widget Number 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:729
+msgid "Widget Number 4"
+msgstr ""
+
+#. 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:38
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing <span>%1$d</span>&ndash;%2$d of %3$d result"
+msgid_plural ""
+"Showing <span>%1$d</span>&ndash;<span>%2$d</span> of <span>%3$d</span> "
+"results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:73
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/kirki-customizer.php:108
+msgid "WooCommerce Setting"
+msgstr ""
+
+#: inc/add_plugin.php:78
+msgid "WPC Smart Wishlist for WooCommerce"
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "You might also like"
+msgstr ""
+
+#: comments.php:111
+msgid "You must be"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:126
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: functions.php:262
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:142
+msgid "Your review"
+msgstr ""
+
+#: inc/template-helper.php:100
+msgid "🇫🇷 France"
+msgstr ""
+
+#: inc/template-helper.php:98
+msgid "🇮🇳 India"
+msgstr ""
+
+#: inc/template-helper.php:97
+msgid "🇷🇺 Russia"
+msgstr ""
+
+#: inc/template-helper.php:99
+msgid "🇹🇷 Turkey"
+msgstr ""
